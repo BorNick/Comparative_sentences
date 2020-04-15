@@ -16,6 +16,7 @@ In the experiments we rely on libraries:
 - [pytorch-pretrained-bert](https://github.com/maknotavailable/pytorch-pretrained-BERT)
 
 ## Brief results
+Full spreadsheet with results is available [here](https://docs.google.com/spreadsheets/d/1vf1HQdWHcs5fgesXDdHUol5sr6-O--AGTzXQLRiH3_c/edit?usp=sharing).  
 The metric is F1-score for each of the classes and micro-averaged F1-score in general:
 | Model               | BETTER | WORSE  | NONE   | AVG    |
 | ------------------- |:------:|:------:|:------:|:------:|
